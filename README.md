@@ -11,21 +11,20 @@
 </p>
 
 <p align="center">
-  <img src="assets/badges/python.svg" alt="Python" height="28">
-  <img src="assets/badges/cpp.svg" alt="C++" height="28">
-  <img src="assets/badges/bash.svg" alt="Bash" height="28">
-  <img src="assets/badges/git.svg" alt="Git" height="28">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" height="28">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="C++" height="28">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&amp;logo=gnubash&amp;logoColor=white" alt="Bash" height="28">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" height="28">
 </p>
 
 <p align="center">
-  <img src="assets/badges/linux.svg" alt="Linux" height="28">
-  <img src="assets/badges/osint.svg" alt="OSINT" height="28">
-  <img src="assets/badges/cryptography.svg" alt="Cryptography" height="28">
-  <img src="assets/badges/network-security.svg" alt="Network Security" height="28">
+  <img src="https://img.shields.io/badge/Linux-222222?style=for-the-badge&amp;logo=linux&amp;logoColor=white" alt="Linux" height="28">
+  <img src="https://img.shields.io/badge/OSINT-245B78?style=for-the-badge" alt="OSINT" height="28">
+  <img src="https://img.shields.io/badge/Cryptography-65558F?style=for-the-badge" alt="Cryptography" height="28">
+  <img src="https://img.shields.io/badge/Network%20Security-286B63?style=for-the-badge" alt="Network Security" height="28">
 </p>
 
 <p align="center">
-  <img src="assets/badges/codex.svg" alt="Codex" height="28">
-  <img src="assets/badges/claude.svg" alt="Claude" height="28">
+  <img src="https://img.shields.io/badge/Codex-202123?style=for-the-badge" alt="Codex" height="28">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&amp;logo=claude&amp;logoColor=white" alt="Claude" height="28">
 </p>
-
