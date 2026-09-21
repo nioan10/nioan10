@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @nioan10, but you can find me as nioan7, nioan8, nioan10 and RooIo
-- 👀 I’m interested in everything
-- 🌱 I’m currently learning everything
-- 📫 You can't reach me
+<p align="center">
+  <img src="assets/disc.png" width="900" alt="nioan10, handwritten on a worn CD case. The older names nioan7 and nioan8 are crossed out on the disc.">
+</p>
 
-<!---
-nioan10/nioan10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <a href="https://github.com/nioan10/concordOS">concordOS</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/nioan10/digital-trace">digital-trace</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/nioan10/Cryptography-DES">Cryptography-DES</a>
+</p>
